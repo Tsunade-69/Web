@@ -742,10 +742,3 @@ Only return ACAO if the origin exists in this list.
 
 ---
 
-..
-
----
-
-## Payloads
-...
-
